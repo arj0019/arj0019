@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arj0019
 - 👀 I’m interested in anything engineering
-- 🌱 I’m currently learning how to apply python to develop tools that help me accomplish my goals
+- 🌱 I’m currently applying python to develop tools that help me accomplish my goals
 - 📫 You can reach me at arj0019@auburn.edu
 
 <!---
